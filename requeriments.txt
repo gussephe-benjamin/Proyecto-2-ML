@@ -11,6 +11,6 @@ imageio
 umap-learn
 scikit-learn
 matplotlib
-opencv-python-headless
+opencv-contrib-python-headless
 joblib
 requests
