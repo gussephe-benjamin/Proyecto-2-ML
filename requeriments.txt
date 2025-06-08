@@ -13,3 +13,6 @@ umap-learn
 scikit-learn
 matplotlib
 opencv-python
+opencv-python-headless
+joblib
+requests
