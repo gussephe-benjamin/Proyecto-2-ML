@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-opencv-contrib-python
 mahotas
 scikit-image
 py7zr
